@@ -5,7 +5,7 @@
     "merge-confidence",
     "task",
     "core"
-  ],
+  ], 
   "scripts": {
     "clean:dist": "rm -rf ./dist/*",
     "compile": "run-s compile:*",
